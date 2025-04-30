@@ -1,0 +1,39 @@
+name: hexo-deploy
+
+on:
+  push:
+    branches:
+      - raw
+
+  workflow_dispatch:
+
+jobs:
+  hexo-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - run: |
+          npm install hexo-cli
+          npm install
+          git branch
+          git read-tree --prefix=source/_posts/ -u origin/raw
+          npx hexo clean
+          npx hexo generate
+          git add .
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "hexo deploy"
+            git push origin `git subtree split --prefix=public HEAD`:Pages --force
+          fi
