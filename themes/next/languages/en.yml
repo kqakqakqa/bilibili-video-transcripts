@@ -16,6 +16,8 @@ menu:
   schedule: Schedule
   sitemap: Sitemap
   commonweal: Commonweal 404
+  rss: RSS
+  github: GitHub
 
 sidebar:
   overview: Overview
