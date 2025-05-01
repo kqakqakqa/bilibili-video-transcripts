@@ -209,7 +209,7 @@ NexT.utils = {
       window.anime({
         targets  : document.scrollingElement,
         duration : 500,
-        easing   : 'linear',
+        easing   : 'easeInOutQuad',
         scrollTop: 0
       });
     });

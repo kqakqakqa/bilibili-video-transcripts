@@ -34,14 +34,16 @@ if (hexo-config('back2top.enable')) {
       color: $b2t-color;
       display: flex;
       height: $sidebar-toggle-size;
+      width: $sidebar-toggle-size;
+      border-radius: $sidebar-toggle-size;
       transition: $transition-ease;
       // Override in Pisces
       transition-property: bottom;
       sidebar-toggle();
 
-      &:hover {
+      /* &:hover {
         color: $sidebar-highlight;
-      }
+      } */
 
       &.back-to-top-on {
         bottom: $b2t-position-bottom-on;

@@ -141,3 +141,9 @@ excerpt:
   excerpt_excludes: [iframe]
   more_excludes: []
   hideWholePostExcerpts: true
+
+search:
+  path: search.xml
+  field: post
+  content: true
+  format: html
