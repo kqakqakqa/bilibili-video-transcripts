@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="theme-color" content="#222"><meta name="generator" content="Hexo 7.3.0">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/bilibili-video-transcripts/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/bilibili-video-transcripts/images/favicon-32x32-next.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/bilibili-video-transcripts/images/favicon-16x16-next.png">
+  <link rel="mask-icon" href="/bilibili-video-transcripts/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/bilibili-video-transcripts/css/main.css">
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha256-dABdfBfUoC8vJUBOwGVdm8L9qlMWaHTIfXt+7GnZCIo=" crossorigin="anonymous">
+
+<script class="next-config" data-name="main" type="application/json">{"hostname":"kqakqaqka.github.io","root":"/bilibili-video-transcripts/","images":"/bilibili-video-transcripts/images","scheme":"Muse","darkmode":false,"version":"8.23.0","exturl":false,"sidebar":{"position":"left","width_expanded":320,"width_dual_column":240,"display":"remove","padding":18,"offset":12},"hljswrap":true,"codeblock":{"theme":{"light":"default","dark":"stackoverflow-dark"},"prism":{"light":"prism","dark":"prism-dark"},"copy_button":{"enable":false,"style":null},"fold":{"enable":false,"height":500},"language":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":false,"async":false,"duration":200,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"}}</script><script src="/bilibili-video-transcripts/js/config.js" defer></script>
+
+    <meta name="description" content="原视频：https:&#x2F;&#x2F;www.bilibili.com&#x2F;video&#x2F;BV1e4411y78r转文本：OpenAI Whisper-Medium整理：Deepseek R1    排料技术深度解析：从基础算法到商业引擎的全面透视 排料技术作为制造业和纺织业中的核心环节，其优化水平直接关系到材料利用率与生产成本。本文将系统性地剖析排料技术的知识体系，包括基础概念、关键算法、优化策略以及商业引擎发展">
+<meta property="og:type" content="article">
+<meta property="og:title" content="排料技术解析">
+<meta property="og:url" content="https://kqakqaqka.github.io/bilibili-video-transcripts/BV1e4411y78r%20%E6%8E%92%E6%96%99%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90/index.html">
+<meta property="og:site_name" content="哔哩哔哩视频转文本">
+<meta property="og:description" content="原视频：https:&#x2F;&#x2F;www.bilibili.com&#x2F;video&#x2F;BV1e4411y78r转文本：OpenAI Whisper-Medium整理：Deepseek R1    排料技术深度解析：从基础算法到商业引擎的全面透视 排料技术作为制造业和纺织业中的核心环节，其优化水平直接关系到材料利用率与生产成本。本文将系统性地剖析排料技术的知识体系，包括基础概念、关键算法、优化策略以及商业引擎发展">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2025-04-28T18:31:19.000Z">
+<meta property="article:modified_time" content="2025-05-01T01:18:18.614Z">
+<meta property="article:author" content="kqakqaqka">
+<meta name="twitter:card" content="summary">
+
+
+<link rel="canonical" href="https://kqakqaqka.github.io/bilibili-video-transcripts/BV1e4411y78r%20%E6%8E%92%E6%96%99%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90/">
+
+
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://kqakqaqka.github.io/bilibili-video-transcripts/BV1e4411y78r%20%E6%8E%92%E6%96%99%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90/","path":"BV1e4411y78r 排料技术解析/","title":"排料技术解析"}</script>
+
+<script class="next-config" data-name="calendar" type="application/json">""</script>
+<title>排料技术解析 | 哔哩哔哩视频转文本</title>
+  
+
+
+
+
+
+
+
+
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous" defer></script>
+<script src="/bilibili-video-transcripts/js/utils.js" defer></script><script src="/bilibili-video-transcripts/js/next-boot.js" defer></script>
+
+  
+
+
+
+
+
+
+  
+
+
+
+
+
+  <noscript>
+    <link rel="stylesheet" href="/bilibili-video-transcripts/css/noscript.css">
+  </noscript>
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="headband"></div>
+
+  <main class="main">
+    <div class="column">
+      <header class="header" itemscope itemtype="http://schema.org/WPHeader"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/bilibili-video-transcripts/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <p class="site-title">哔哩哔哩视频转文本</p>
+      <i class="logo-line"></i>
+    </a>
+      <p class="site-subtitle" itemprop="description">Bilibili Video Transcripts</p>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger" aria-label="搜索" role="button">
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/bilibili-video-transcripts/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li>
+  </ul>
+</nav>
+
+
+
+
+</header>
+    </div>
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://kqakqaqka.github.io/bilibili-video-transcripts/BV1e4411y78r%20%E6%8E%92%E6%96%99%E6%8A%80%E6%9C%AF%E8%A7%A3%E6%9E%90/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/bilibili-video-transcripts/images/avatar.gif">
+      <meta itemprop="name" content="kqakqaqka">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="哔哩哔哩视频转文本">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="排料技术解析 | 哔哩哔哩视频转文本">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          排料技术解析
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2025-04-29 02:31:19" itemprop="dateCreated datePublished" datetime="2025-04-29T02:31:19+08:00">2025-04-29</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar-check"></i>
+      </span>
+      <span class="post-meta-item-text">更新于</span>
+      <time title="修改时间：2025-05-01 09:18:18" itemprop="dateModified" datetime="2025-05-01T09:18:18+08:00">2025-05-01</time>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody"><blockquote>
+<p>原视频：<a target="_blank" rel="noopener" href="https://www.bilibili.com/video/BV1e4411y78r">https://www.bilibili.com/video/BV1e4411y78r</a><br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1</p>
+<iframe src="//player.bilibili.com/player.html?bvid=BV1e4411y78r&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</blockquote>
+<hr>
+<h2 id="排料技术深度解析：从基础算法到商业引擎的全面透视">排料技术深度解析：从基础算法到商业引擎的全面透视</h2>
+<p>排料技术作为制造业和纺织业中的核心环节，其优化水平直接关系到材料利用率与生产成本。本文将系统性地剖析排料技术的知识体系，包括基础概念、关键算法、优化策略以及商业引擎发展现状，为相关领域从业者提供全面的技术参考。</p>
+<h3 id="一、排料基础与行业差异">一、排料基础与行业差异</h3>
+<p>排料本质上是将样片或零件合理放置在材料上的过程，不同行业在术语和需求上存在显著差异。纺织行业通常将样片排放在矩形面料上，利用率计算为样片总面积除以占用矩形面积，核心目标是尽量减少面料长度消耗。而钣金行业则面对固定尺寸的金属板材（如5m×2m），追求在单次切割中放置最多零件，这与纺织业的连续卷材排料形成鲜明对比。</p>
+<p>行业差异直接影响了排料算法的设计方向。纺织业需要处理连续长度优化问题，允许分段裁剪；钣金业则需在固定平面内实现最大密度布局，且更注重切割效率。皮革行业又有所不同，其材料常为不规则多边形，增加了排料的几何复杂度。理解这些差异是开发高效排料系统的前提条件。</p>
+<h3 id="二、排料引擎的三大技术支柱">二、排料引擎的三大技术支柱</h3>
+<p>一个成熟的排料引擎依赖三大核心技术层：基础几何算法、排样策略和优化算法。这三者呈金字塔结构，底层算法支撑上层策略的实现。</p>
+<p><strong>几何算法层</strong>的核心是多边形处理技术。顶点数量对性能影响显著——在纺织业中，将多边形顶点数从200个优化到50个可使计算速度提升4-5倍，而利用率损失通常不超过0.3%。常用优化方法包括共线点消除、顶点简化（如将相邻边合并为单边）以及外扩近似法。值得注意的是，顶点优化方向（外扩或内缩）需要根据行业精度要求选择，外扩处理能保证不会影响实际裁剪精度。</p>
+<p><strong>距离计算优化</strong>是另一关键技术。通过分析多边形的单调边链特性，可以避免不必要的距离检测。例如，凸点只需检测特定方向的范围，利用边链的单调性可减少60%以上的计算量。对于NFP（No-Fit Polygon）算法，当处理可旋转零件时，直接计算所有角度组合是不现实的（100个零件在1度步长下需要计算360^100种组合），此时需要依赖高效的距离求解器。</p>
+<h3 id="三、排样策略的范式转变">三、排样策略的范式转变</h3>
+<p>传统排样策略基于&quot;可行解&quot;理念，要求每一步放置都确保无重叠。左底法、重心法等经典方法虽然简单，但存在根本性局限——它们只能探索有限的解空间。实验表明，对于某些复杂布局（如需要零件相互卡位的结构），这些方法的利用率上限很难超过75%。</p>
+<p><strong>重叠移除技术</strong>代表了新一代排样策略。该技术允许暂时性重叠，通过迭代调整逐步消除冲突，其优势在于：</p>
+<ol>
+<li>解空间覆盖率比传统方法提高3-5倍</li>
+<li>对复杂约束（如对称排列）的支持更好</li>
+<li>平均可获得2-8%的利用率提升</li>
+</ol>
+<p>关键实现技术包括：</p>
+<ul>
+<li>最小距离移动法：计算移除重叠所需的最小位移</li>
+<li>整体优化法：建立所有零件的位移方程组</li>
+<li>惩罚函数机制：避免陷入局部最优解</li>
+</ul>
+<h3 id="四、优化算法的工程实践">四、优化算法的工程实践</h3>
+<p>优化算法需要与排样策略相匹配。基于可行解的策略适合采用遗传算法、模拟退火等智能优化方法，而重叠移除技术则更适合梯度下降等数值优化方法。</p>
+<p><strong>贪婪算法</strong>在钣金行业表现突出，其特点包括：</p>
+<ul>
+<li>单次排样时间控制在3-8秒</li>
+<li>平均利用率可达82-85%</li>
+<li>适合处理30-50种零件的典型订单</li>
+</ul>
+<p>对于更高要求的场景，<strong>混合优化策略</strong>展现出优势。例如先使用贪婪算法获得初始解，再采用模拟退火进行精细优化，这种组合在Benchmark测试中比单一算法提升利用率1.5-3%。</p>
+<h3 id="五、商用排料引擎竞争格局">五、商用排料引擎竞争格局</h3>
+<p>当前顶级商业引擎间的性能差距通常在0.5%利用率以内，代表产品包括：</p>
+<ol>
+<li><strong>DeepNest</strong>：采用模式识别辅助几何分析</li>
+<li><strong>NestLib</strong>：以高效的梯度下降实现著称</li>
+<li><strong>OptiNest</strong>：专注钣金行业的特殊优化</li>
+<li><strong>NestMaster</strong>：支持超大规模零件集(10,000+)</li>
+</ol>
+<p>测试数据显示，这些引擎在标准测试集上的表现：</p>
+<ul>
+<li>平均利用率：88-92%</li>
+<li>计算时间：2-15分钟（视复杂度）</li>
+<li>支持约束类型：5-8类（对称、分组等）</li>
+</ul>
+<h3 id="六、前沿方向与资源指引">六、前沿方向与资源指引</h3>
+<p>排料技术的研究热点正转向：</p>
+<ol>
+<li>机器学习辅助的初始布局生成</li>
+<li>多目标优化（兼顾利用率与切割效率）</li>
+<li>云原生分布式排料系统</li>
+</ol>
+<p>对于希望深入研究的开发者，推荐以下资源：</p>
+<ul>
+<li>ESUP基准测试集（含300+标准案例）</li>
+<li>《Computational Geometry》第6章（多边形匹配专题）</li>
+<li>IEEE Transactions on Automation Science上的经典论文系列</li>
+</ul>
+<p>排料技术的优化永无止境，即便是0.1%的利用率提升，在大规模生产中也能带来显著经济效益。理解这些核心技术原理，将有助于开发者根据具体行业需求打造更高效的排料解决方案。</p>
+
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/bilibili-video-transcripts/BV1xSqdYqEUq%20%E6%82%A8%E6%98%AF%E5%90%A6%E5%BA%94%E8%AF%A5%E4%BD%BF%E7%94%A8%2032%20%E4%BD%8D%E7%89%88%E6%9C%AC%E7%9A%84%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%EF%BC%88%E6%98%AF%E7%9A%84%EF%BC%89/" rel="prev" title="您是否应该使用 32 位版本的应用程序（是的）">
+                  <i class="fa fa-angle-left"></i> 您是否应该使用 32 位版本的应用程序（是的）
+                </a>
+            </div>
+            <div class="post-nav-item">
+                <a href="/bilibili-video-transcripts/BV1Qex1eBEvx%20%E6%90%9E%E4%B8%8D%E6%87%82.....%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%A4%A7%E4%B8%80%E6%80%8E%E4%B9%88%E4%BA%86%EF%BC%9F%E6%88%91%E5%BD%93%E6%97%B6%E6%80%8E%E4%B9%88%E4%B8%8D%E6%98%AF%E8%BF%99%E6%A0%B7%E5%AD%90%EF%BC%9F/" rel="next" title="搞不懂.....现在的大一怎么了？我当时怎么不是这样子？">
+                  搞不懂.....现在的大一怎么了？我当时怎么不是这样子？ <i class="fa fa-angle-right"></i>
+                </a>
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+  <div class="powered-by">基于 <a href="https://hexo.io/" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/muse/" rel="noopener" target="_blank">NexT.Muse</a> 构建
+  </div>
+
+    </div>
+  </footer>
+
+  
+  <div class="back-to-top" role="button" aria-label="返回顶部">
+    <i class="fa fa-arrow-up fa-lg"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+</body>
+</html>

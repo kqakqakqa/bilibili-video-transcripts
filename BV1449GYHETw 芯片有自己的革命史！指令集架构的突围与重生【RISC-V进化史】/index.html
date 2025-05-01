@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="theme-color" content="#222"><meta name="generator" content="Hexo 7.3.0">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/bilibili-video-transcripts/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/bilibili-video-transcripts/images/favicon-32x32-next.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/bilibili-video-transcripts/images/favicon-16x16-next.png">
+  <link rel="mask-icon" href="/bilibili-video-transcripts/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/bilibili-video-transcripts/css/main.css">
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha256-dABdfBfUoC8vJUBOwGVdm8L9qlMWaHTIfXt+7GnZCIo=" crossorigin="anonymous">
+
+<script class="next-config" data-name="main" type="application/json">{"hostname":"kqakqaqka.github.io","root":"/bilibili-video-transcripts/","images":"/bilibili-video-transcripts/images","scheme":"Muse","darkmode":false,"version":"8.23.0","exturl":false,"sidebar":{"position":"left","width_expanded":320,"width_dual_column":240,"display":"remove","padding":18,"offset":12},"hljswrap":true,"codeblock":{"theme":{"light":"default","dark":"stackoverflow-dark"},"prism":{"light":"prism","dark":"prism-dark"},"copy_button":{"enable":false,"style":null},"fold":{"enable":false,"height":500},"language":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":false,"async":false,"duration":200,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"}}</script><script src="/bilibili-video-transcripts/js/config.js" defer></script>
+
+    <meta name="description" content="原视频：https:&#x2F;&#x2F;www.bilibili.com&#x2F;video&#x2F;BV1449GYHETw转文本：OpenAI Whisper-Medium整理：Deepseek R1    RISC-V：开源芯片架构的崛起与未来革命 在电子时代，芯片如同人类的大脑，而CPU作为核心，其指令集架构（ISA）决定了它的能力。长期以来，英特尔X86和ARM架构垄断市场，形成技术壁垒。然而，近年来，一个名为RIS">
+<meta property="og:type" content="article">
+<meta property="og:title" content="芯片有自己的革命史！指令集架构的突围与重生【RISC-V进化史】">
+<meta property="og:url" content="https://kqakqaqka.github.io/bilibili-video-transcripts/BV1449GYHETw%20%E8%8A%AF%E7%89%87%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E9%9D%A9%E5%91%BD%E5%8F%B2%EF%BC%81%E6%8C%87%E4%BB%A4%E9%9B%86%E6%9E%B6%E6%9E%84%E7%9A%84%E7%AA%81%E5%9B%B4%E4%B8%8E%E9%87%8D%E7%94%9F%E3%80%90RISC-V%E8%BF%9B%E5%8C%96%E5%8F%B2%E3%80%91/index.html">
+<meta property="og:site_name" content="哔哩哔哩视频转文本">
+<meta property="og:description" content="原视频：https:&#x2F;&#x2F;www.bilibili.com&#x2F;video&#x2F;BV1449GYHETw转文本：OpenAI Whisper-Medium整理：Deepseek R1    RISC-V：开源芯片架构的崛起与未来革命 在电子时代，芯片如同人类的大脑，而CPU作为核心，其指令集架构（ISA）决定了它的能力。长期以来，英特尔X86和ARM架构垄断市场，形成技术壁垒。然而，近年来，一个名为RIS">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2025-04-28T18:47:05.000Z">
+<meta property="article:modified_time" content="2025-05-01T01:18:18.609Z">
+<meta property="article:author" content="kqakqaqka">
+<meta name="twitter:card" content="summary">
+
+
+<link rel="canonical" href="https://kqakqaqka.github.io/bilibili-video-transcripts/BV1449GYHETw%20%E8%8A%AF%E7%89%87%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E9%9D%A9%E5%91%BD%E5%8F%B2%EF%BC%81%E6%8C%87%E4%BB%A4%E9%9B%86%E6%9E%B6%E6%9E%84%E7%9A%84%E7%AA%81%E5%9B%B4%E4%B8%8E%E9%87%8D%E7%94%9F%E3%80%90RISC-V%E8%BF%9B%E5%8C%96%E5%8F%B2%E3%80%91/">
+
+
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://kqakqaqka.github.io/bilibili-video-transcripts/BV1449GYHETw%20%E8%8A%AF%E7%89%87%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E9%9D%A9%E5%91%BD%E5%8F%B2%EF%BC%81%E6%8C%87%E4%BB%A4%E9%9B%86%E6%9E%B6%E6%9E%84%E7%9A%84%E7%AA%81%E5%9B%B4%E4%B8%8E%E9%87%8D%E7%94%9F%E3%80%90RISC-V%E8%BF%9B%E5%8C%96%E5%8F%B2%E3%80%91/","path":"BV1449GYHETw 芯片有自己的革命史！指令集架构的突围与重生【RISC-V进化史】/","title":"芯片有自己的革命史！指令集架构的突围与重生【RISC-V进化史】"}</script>
+
+<script class="next-config" data-name="calendar" type="application/json">""</script>
+<title>芯片有自己的革命史！指令集架构的突围与重生【RISC-V进化史】 | 哔哩哔哩视频转文本</title>
+  
+
+
+
+
+
+
+
+
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous" defer></script>
+<script src="/bilibili-video-transcripts/js/utils.js" defer></script><script src="/bilibili-video-transcripts/js/next-boot.js" defer></script>
+
+  
+
+
+
+
+
+
+  
+
+
+
+
+
+  <noscript>
+    <link rel="stylesheet" href="/bilibili-video-transcripts/css/noscript.css">
+  </noscript>
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="headband"></div>
+
+  <main class="main">
+    <div class="column">
+      <header class="header" itemscope itemtype="http://schema.org/WPHeader"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/bilibili-video-transcripts/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <p class="site-title">哔哩哔哩视频转文本</p>
+      <i class="logo-line"></i>
+    </a>
+      <p class="site-subtitle" itemprop="description">Bilibili Video Transcripts</p>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger" aria-label="搜索" role="button">
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/bilibili-video-transcripts/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li>
+  </ul>
+</nav>
+
+
+
+
+</header>
+    </div>
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://kqakqaqka.github.io/bilibili-video-transcripts/BV1449GYHETw%20%E8%8A%AF%E7%89%87%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E9%9D%A9%E5%91%BD%E5%8F%B2%EF%BC%81%E6%8C%87%E4%BB%A4%E9%9B%86%E6%9E%B6%E6%9E%84%E7%9A%84%E7%AA%81%E5%9B%B4%E4%B8%8E%E9%87%8D%E7%94%9F%E3%80%90RISC-V%E8%BF%9B%E5%8C%96%E5%8F%B2%E3%80%91/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/bilibili-video-transcripts/images/avatar.gif">
+      <meta itemprop="name" content="kqakqaqka">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="哔哩哔哩视频转文本">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="芯片有自己的革命史！指令集架构的突围与重生【RISC-V进化史】 | 哔哩哔哩视频转文本">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          芯片有自己的革命史！指令集架构的突围与重生【RISC-V进化史】
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2025-04-29 02:47:05" itemprop="dateCreated datePublished" datetime="2025-04-29T02:47:05+08:00">2025-04-29</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar-check"></i>
+      </span>
+      <span class="post-meta-item-text">更新于</span>
+      <time title="修改时间：2025-05-01 09:18:18" itemprop="dateModified" datetime="2025-05-01T09:18:18+08:00">2025-05-01</time>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody"><blockquote>
+<p>原视频：<a target="_blank" rel="noopener" href="https://www.bilibili.com/video/BV1449GYHETw">https://www.bilibili.com/video/BV1449GYHETw</a><br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1</p>
+<iframe src="//player.bilibili.com/player.html?bvid=BV1449GYHETw&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</blockquote>
+<hr>
+<p><strong>RISC-V：开源芯片架构的崛起与未来革命</strong></p>
+<p>在电子时代，芯片如同人类的大脑，而CPU作为核心，其指令集架构（ISA）决定了它的能力。长期以来，英特尔X86和ARM架构垄断市场，形成技术壁垒。然而，近年来，一个名为RISC-V的开源架构异军突起，短短几年内与X86、ARM形成三足鼎立之势。它的故事，要从指令集的本质说起。</p>
+<h3 id="指令集：CPU的“乐谱”">指令集：CPU的“乐谱”</h3>
+<p>指令集是CPU操作的最小单元，如同人类的语言功能。X86和ARM凭借复杂指令集（CISC）和精简指令集（RISC）两大流派统治市场。CISC指令复杂但功能强大，RISC则追求简单高效。1980年，加州大学伯克利分校的David Patterson教授提出RISC理念，主张剔除冗余指令，用简单指令组合实现复杂功能。这一思想催生了RISC架构的雏形，但早期受限于生态，未能撼动主流。</p>
+<h3 id="RISC-V的诞生：开源的力量">RISC-V的诞生：开源的力量</h3>
+<p>2010年，伯克利实验室重启RISC研究，推出第五代RISC-V。其最大突破在于完全开源，采用BSD协议，允许自由修改和商用。这一特性打破了X86和ARM的授权枷锁，吸引了全球开发者。2015年，RISC-V基金会成立，推动架构标准化和生态建设。从嵌入式设备到AI芯片，RISC-V迅速渗透各领域，成为创新的温床。</p>
+<h3 id="技术优势：简单、灵活、低功耗">技术优势：简单、灵活、低功耗</h3>
+<p>RISC-V的设计哲学是“少即是多”：</p>
+<ul>
+<li><strong>指令精简</strong>：固定长度指令，硬件直接执行，无需微码翻译，降低功耗。</li>
+<li><strong>模块化扩展</strong>：支持自定义指令，适合AI、物联网等定制化场景。</li>
+<li><strong>生态开放</strong>：无需授权费，企业可自主设计，避免“卡脖子”风险。</li>
+</ul>
+<p>相比之下，X86依赖复杂解码，功耗高；ARM虽节能，但授权费用昂贵。RISC-V在嵌入式市场首战告捷，随后向高性能计算进军。</p>
+<h3 id="生态突围：从边缘到主流">生态突围：从边缘到主流</h3>
+<p>早期RISC-V聚焦低功耗设备，如传感器、MCU。2018年后，中国企业成为推动主力：</p>
+<ul>
+<li><strong>阿里巴巴</strong>推出玄铁系列，C910处理器兼容安卓，剑指移动端；</li>
+<li><strong>无剑联盟</strong>整合EDA工具链，降低芯片设计门槛；</li>
+<li><strong>RISC-V国际基金会</strong>预测，2024年搭载芯片将达20亿颗，2030年突破160亿。</li>
+</ul>
+<p>软件生态同步完善，Linux、安卓、AI框架相继适配，形成“硬件开源+软件协同”的闭环。</p>
+<h3 id="AI浪潮：RISC-V的新机遇">AI浪潮：RISC-V的新机遇</h3>
+<p>2025年，生成式AI爆发，RISC-V凭借可定制性成为理想载体：</p>
+<ul>
+<li><strong>专用加速</strong>：集成AI指令集，优化推理效率；</li>
+<li><strong>异构计算</strong>：与GPU、NPU协同，满足大模型需求。<br>
+阿里发布C930旗舰处理器，支持多核互联，瞄准服务器和自动驾驶；初创公司则探索存算一体等前沿方向。</li>
+</ul>
+<h3 id="挑战与未来：破壁者的征途">挑战与未来：破壁者的征途</h3>
+<p>尽管势头迅猛，RISC-V仍需直面挑战：</p>
+<ul>
+<li><strong>高性能短板</strong>：服务器级芯片仍需时间验证；</li>
+<li><strong>生态成熟度</strong>：相比X86/ARM的百万级应用，RISC-V工具链尚处成长期。</li>
+</ul>
+<p>然而，开源模式赋予其独特生命力——全球开发者共同修补漏洞，优化生态。在AIoT、汽车电子、边缘计算等新兴领域，RISC-V已占据先机。</p>
+<h3 id="结语：计算革命的新起点">结语：计算革命的新起点</h3>
+<p>RISC-V的崛起不仅是技术迭代，更是一场开放对抗封闭的范式革命。它打破了芯片产业的权力垄断，让中小企业和国家获得自主权。随着AI和量子计算重塑硬件需求，RISC-V或将成为下一代计算的基石。正如帕特森所言：“最好的架构不是被设计出来的，而是被演化出来的。”这场演化，正由开源的力量加速推进。</p>
+
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/bilibili-video-transcripts/BV18wdUYwEYk%20%E8%81%8A%E8%81%8AMCP%EF%BC%9AAI%E5%A4%A7%E4%B8%80%E7%BB%9F%E8%A6%81%E6%9D%A5%E4%BA%86%EF%BC%9F/" rel="prev" title="聊聊MCP：AI大一统要来了？">
+                  <i class="fa fa-angle-left"></i> 聊聊MCP：AI大一统要来了？
+                </a>
+            </div>
+            <div class="post-nav-item">
+                <a href="/bilibili-video-transcripts/BV19229YPE6F%20%E8%A2%AB%E6%9C%9D%E9%B2%9C%E4%BF%98%E8%99%8F%E7%9A%84%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%86%9B_%E6%99%AE%E9%9F%A6%E5%B8%83%E6%B4%9B%E5%8F%B7_%E9%97%B4%E8%B0%8D%E8%88%B9%EF%BC%9A%E4%B8%80%E5%9C%BA%E9%80%BC%E5%BE%97%E7%BE%8E%E5%86%9B%E6%9C%8D%E8%BD%AF%E7%9A%84%E6%B5%B7%E4%B8%8A%E5%86%B2%E7%AA%81/" rel="next" title="被朝鲜俘虏的美国海军&quot;普韦布洛号&quot;间谍船：一场逼得美军服软的海上冲突">
+                  被朝鲜俘虏的美国海军"普韦布洛号"间谍船：一场逼得美军服软的海上冲突 <i class="fa fa-angle-right"></i>
+                </a>
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+  <div class="powered-by">基于 <a href="https://hexo.io/" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/muse/" rel="noopener" target="_blank">NexT.Muse</a> 构建
+  </div>
+
+    </div>
+  </footer>
+
+  
+  <div class="back-to-top" role="button" aria-label="返回顶部">
+    <i class="fa fa-arrow-up fa-lg"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+</body>
+</html>
