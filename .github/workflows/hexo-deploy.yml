@@ -29,7 +29,7 @@ jobs:
           git read-tree --prefix=source/_posts/ -u origin/posts
           npx hexo clean
           npx hexo generate
-          git add public
+          git add .
           git commit -m "hexo deploy"
           git checkout gh-pages
           git read-tree --reset -u main:public/
