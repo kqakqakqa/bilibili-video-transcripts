@@ -3,7 +3,7 @@ title: ［现象学23］咋一闭眼早八就迟到了？睡觉时世界还存�
 date: 2025-04-30 03:03:51
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1qCzdYbEy4<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1qCzdYbEy4<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1qCzdYbEy4&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

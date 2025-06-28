@@ -3,7 +3,7 @@ title: 国产化率超过85%，从追赶到跨越，中国高铁如何只用6年
 date: 2025-04-29 02:27:04
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1MWLBzLEEb<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1MWLBzLEEb<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1MWLBzLEEb&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

@@ -3,7 +3,7 @@ title: 你的妈妈，可能正在悄悄经历最痛苦的10年……
 date: 2025-04-29 02:22:49
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1C6LJzDEef<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1C6LJzDEef<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1C6LJzDEef&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

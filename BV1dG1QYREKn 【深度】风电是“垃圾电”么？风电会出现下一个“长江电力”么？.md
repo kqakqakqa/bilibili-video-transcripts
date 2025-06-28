@@ -3,7 +3,7 @@ title: 【深度】风电是“垃圾电”么？风电会出现下一个“长�
 date: 2025-04-29 02:03:24
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1dG1QYREKn<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1dG1QYREKn<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1dG1QYREKn&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

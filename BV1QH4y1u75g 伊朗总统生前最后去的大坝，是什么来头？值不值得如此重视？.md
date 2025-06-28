@@ -3,7 +3,7 @@ title: 伊朗总统生前最后去的大坝，是什么来头？值不值得如�
 date: 2025-04-27 08:43:52
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1QH4y1u75g<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1QH4y1u75g<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1QH4y1u75g&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

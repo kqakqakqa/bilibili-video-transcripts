@@ -3,7 +3,7 @@ title: [中字]关于NASA一些不得不吐槽的事情[天天大聪明]
 date: 2025-04-29 01:53:28
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1L64y1N7fX<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1L64y1N7fX<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1L64y1N7fX&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

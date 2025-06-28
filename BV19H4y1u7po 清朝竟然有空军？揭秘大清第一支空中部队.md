@@ -3,7 +3,7 @@ title: 清朝竟然有空军？揭秘大清第一支空中部队
 date: 2025-04-29 02:41:22
 ---
 
-> 原视频：https://www.bilibili.com/video/BV19H4y1u7po<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV19H4y1u7po<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV19H4y1u7po&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

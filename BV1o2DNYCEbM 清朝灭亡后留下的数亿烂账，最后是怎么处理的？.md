@@ -3,7 +3,7 @@ title: 清朝灭亡后留下的数亿烂账，最后是怎么处理的？
 date: 2025-04-29 02:40:40
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1o2DNYCEbM<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1o2DNYCEbM<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1o2DNYCEbM&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

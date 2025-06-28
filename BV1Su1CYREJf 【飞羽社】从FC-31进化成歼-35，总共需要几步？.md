@@ -3,7 +3,7 @@ title: 【飞羽社】从FC-31进化成歼-35，总共需要几步？
 date: 2025-04-29 02:08:03
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1Su1CYREJf<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1Su1CYREJf<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1Su1CYREJf&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

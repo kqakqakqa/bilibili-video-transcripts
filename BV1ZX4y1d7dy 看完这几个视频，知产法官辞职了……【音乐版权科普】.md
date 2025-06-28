@@ -3,7 +3,7 @@ title: 看完这几个视频，知产法官辞职了……【音乐版权科普�
 date: 2025-04-29 02:44:05
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1ZX4y1d7dy<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1ZX4y1d7dy<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1ZX4y1d7dy&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

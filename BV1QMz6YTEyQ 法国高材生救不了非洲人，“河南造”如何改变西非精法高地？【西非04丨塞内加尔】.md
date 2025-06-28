@@ -3,7 +3,7 @@ title: 法国高材生救不了非洲人，“河南造”如何改变西非精�
 date: 2025-04-29 02:39:20
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1QMz6YTEyQ<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1QMz6YTEyQ<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1QMz6YTEyQ&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

@@ -3,7 +3,7 @@ title: 【高见37】制造“信息茧房”？算法不背这个锅
 date: 2025-04-29 02:09:24
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1m5LCzdEK5<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1m5LCzdEK5<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1m5LCzdEK5&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

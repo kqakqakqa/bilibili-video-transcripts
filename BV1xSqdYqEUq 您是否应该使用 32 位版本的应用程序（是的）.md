@@ -3,7 +3,7 @@ title: 您是否应该使用 32 位版本的应用程序（是的）
 date: 2025-04-29 02:30:23
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1xSqdYqEUq<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1xSqdYqEUq<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1xSqdYqEUq&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

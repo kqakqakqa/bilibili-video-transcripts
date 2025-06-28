@@ -3,7 +3,7 @@ title: 【2023跨年演讲】没有草台班子，哪来伟大的时代
 date: 2025-04-29 01:59:43
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1YTCgYcENp<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1YTCgYcENp<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1YTCgYcENp&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

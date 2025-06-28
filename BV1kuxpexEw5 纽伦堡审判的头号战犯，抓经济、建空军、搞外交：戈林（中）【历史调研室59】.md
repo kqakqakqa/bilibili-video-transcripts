@@ -3,7 +3,7 @@ title: 纽伦堡审判的头号战犯，抓经济、建空军、搞外交：戈�
 date: 2025-04-29 02:45:38
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1kuxpexEw5<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1kuxpexEw5<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1kuxpexEw5&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

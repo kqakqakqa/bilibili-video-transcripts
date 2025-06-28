@@ -3,7 +3,7 @@ title: 英国火箭“黑”历史，是如何自废武功的？又能否重新�
 date: 2025-04-27 08:49:20
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1aw4m167yj<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1aw4m167yj<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1aw4m167yj&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

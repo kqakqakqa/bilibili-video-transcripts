@@ -3,7 +3,7 @@ title: 法国核电生命线，如何成为中法美俄争夺之地？【西非0
 date: 2025-04-29 02:38:35
 ---
 
-> 原视频：https://www.bilibili.com/video/BV12pBsYUEnh<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV12pBsYUEnh<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV12pBsYUEnh&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

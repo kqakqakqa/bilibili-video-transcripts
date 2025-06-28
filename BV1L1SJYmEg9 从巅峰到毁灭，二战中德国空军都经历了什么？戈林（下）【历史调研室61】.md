@@ -3,7 +3,7 @@ title: 从巅峰到毁灭，二战中德国空军都经历了什么？戈林（�
 date: 2025-04-29 02:21:19
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1L1SJYmEg9<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1L1SJYmEg9<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1L1SJYmEg9&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

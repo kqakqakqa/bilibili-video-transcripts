@@ -3,7 +3,7 @@ title: 高频调光更护眼?SVM不是闪烁指标!从论文和行业标准解�
 date: 2025-04-27 08:51:37
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1q1SgYdEDz<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1q1SgYdEDz<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1q1SgYdEDz&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

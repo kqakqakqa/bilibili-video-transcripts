@@ -3,7 +3,7 @@ title: 【睡前消息892】拆英国钢铁厂，印度比中国更专业
 date: 2025-04-29 02:06:03
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1PiLBzTE8R<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1PiLBzTE8R<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1PiLBzTE8R&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

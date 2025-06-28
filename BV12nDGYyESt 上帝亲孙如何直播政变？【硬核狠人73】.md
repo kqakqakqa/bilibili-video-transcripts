@@ -3,7 +3,7 @@ title: 上帝亲孙如何直播政变？【硬核狠人73】
 date: 2025-04-29 02:11:05
 ---
 
-> 原视频：https://www.bilibili.com/video/BV12nDGYyESt<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV12nDGYyESt<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV12nDGYyESt&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

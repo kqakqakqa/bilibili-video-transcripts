@@ -3,7 +3,7 @@ title: 一群中国人，为什么要去老挝挖矿？
 date: 2025-04-27 08:42:10
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1cZNBejEsf<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1cZNBejEsf<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1cZNBejEsf&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

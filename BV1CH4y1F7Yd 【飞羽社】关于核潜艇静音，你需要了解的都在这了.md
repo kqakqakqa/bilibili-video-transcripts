@@ -3,7 +3,7 @@ title: 【飞羽社】关于核潜艇静音，你需要了解的都在这了
 date: 2025-04-27 08:05:01
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1CH4y1F7Yd<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1CH4y1F7Yd<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1CH4y1F7Yd&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

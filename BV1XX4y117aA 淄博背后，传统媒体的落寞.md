@@ -3,7 +3,7 @@ title: 淄博背后，传统媒体的落寞
 date: 2025-04-29 02:40:00
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1XX4y117aA<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1XX4y117aA<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1XX4y117aA&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

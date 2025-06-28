@@ -3,7 +3,7 @@ title: 这个百亿大佬，竟然是我师兄？他成功的秘诀是……
 date: 2025-04-29 03:24:50
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1sJyUY8EkF<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1sJyUY8EkF<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1sJyUY8EkF&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

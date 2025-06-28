@@ -3,7 +3,7 @@ title: 赫拉重返“犯罪现场”！人类首次小行星防御计划进入�
 date: 2025-04-29 03:23:04
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1b22LYSE3E<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1b22LYSE3E<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1b22LYSE3E&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

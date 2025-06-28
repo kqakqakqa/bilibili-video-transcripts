@@ -3,7 +3,7 @@ title: 中国客机迫降美军机场，东航583及麦道11的故事
 date: 2025-04-29 02:16:26
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1XhAAeFEL9<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1XhAAeFEL9<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1XhAAeFEL9&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

@@ -3,7 +3,7 @@ title: 「信号不如国产」的iPhone为何全球销量上亿?「信号」评
 date: 2025-04-27 07:36:42
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1Y3mTYvEz1<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1Y3mTYvEz1<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1Y3mTYvEz1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

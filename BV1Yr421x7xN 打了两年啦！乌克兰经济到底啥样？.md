@@ -3,7 +3,7 @@ title: 打了两年啦！乌克兰经济到底啥样？
 date: 2025-04-27 08:47:10
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1Yr421x7xN<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1Yr421x7xN<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1Yr421x7xN&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

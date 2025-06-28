@@ -3,7 +3,7 @@ title: 【飞羽社】法国新护卫舰，欧洲小朱姆还是武装大游艇�
 date: 2025-04-27 08:02:06
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1fcD5YKEj9<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1fcD5YKEj9<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1fcD5YKEj9&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

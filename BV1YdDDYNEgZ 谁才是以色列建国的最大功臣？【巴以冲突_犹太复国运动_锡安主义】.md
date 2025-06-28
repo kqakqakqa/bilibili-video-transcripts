@@ -3,7 +3,7 @@ title: 谁才是以色列建国的最大功臣？【巴以冲突/犹太复国运
 date: 2025-04-29 03:20:58
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1YdDDYNEgZ<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1YdDDYNEgZ<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1YdDDYNEgZ&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

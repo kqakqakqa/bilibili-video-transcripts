@@ -3,7 +3,7 @@ title: 【TED演讲】下一个超级大国是谁？你肯定想象不到| The n
 date: 2025-04-29 02:01:47
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1S1421x7aJ<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1S1421x7aJ<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1S1421x7aJ&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

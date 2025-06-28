@@ -3,7 +3,7 @@ title: 说最狠的话，挨最毒的骂：在联合国做人权专家
 date: 2025-04-29 03:19:43
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1qzLCzzEwt<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1qzLCzzEwt<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1qzLCzzEwt&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

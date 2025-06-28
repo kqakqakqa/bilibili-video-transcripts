@@ -3,7 +3,7 @@ title: 忍很久了…今天必须得吐槽一下剪映！
 date: 2025-04-29 02:29:39
 ---
 
-> 原视频：https://www.bilibili.com/video/BV16jZLY8Eak<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV16jZLY8Eak<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV16jZLY8Eak&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

@@ -3,7 +3,7 @@ title: 动画漫谈录第22期——ML，中国宅文化没落的表现！
 date: 2025-04-27 08:45:13
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1vT421U7sq<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1vT421U7sq<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1vT421U7sq&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

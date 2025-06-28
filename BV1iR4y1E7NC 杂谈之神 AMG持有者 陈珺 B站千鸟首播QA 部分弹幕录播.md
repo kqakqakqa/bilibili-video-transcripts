@@ -3,7 +3,7 @@ title: 杂谈之神 AMG持有者 陈珺 B站千鸟首播QA 部分弹幕录播
 date: 2025-04-29 02:36:30
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1iR4y1E7NC<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1iR4y1E7NC<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1iR4y1E7NC&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

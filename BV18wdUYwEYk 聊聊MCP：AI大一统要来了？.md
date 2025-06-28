@@ -3,7 +3,7 @@ title: 聊聊MCP：AI大一统要来了？
 date: 2025-04-29 02:46:26
 ---
 
-> 原视频：https://www.bilibili.com/video/BV18wdUYwEYk<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV18wdUYwEYk<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV18wdUYwEYk&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

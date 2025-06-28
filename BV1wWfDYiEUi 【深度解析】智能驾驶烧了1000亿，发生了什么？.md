@@ -3,7 +3,7 @@ title: 【深度解析】智能驾驶烧了1000亿，发生了什么？
 date: 2025-04-27 08:40:06
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1wWfDYiEUi<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1wWfDYiEUi<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1wWfDYiEUi&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

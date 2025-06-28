@@ -3,7 +3,7 @@ title: 军舰是怎么越来越硬的？【军事榨菜12】
 date: 2025-04-29 02:24:12
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1Hjtje5Eh7<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1Hjtje5Eh7<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1Hjtje5Eh7&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

@@ -3,7 +3,7 @@ title: “熊”命关天：一头黑熊如何改变了现代弹射座椅的历�
 date: 2025-04-29 01:56:41
 ---
 
-> 原视频：https://www.bilibili.com/video/BV18mAneGEUU<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV18mAneGEUU<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV18mAneGEUU&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

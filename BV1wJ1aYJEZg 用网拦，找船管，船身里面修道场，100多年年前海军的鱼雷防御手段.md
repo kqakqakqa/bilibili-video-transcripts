@@ -3,7 +3,7 @@ title: 用网拦，找船管，船身里面修道场，100多年年前海军的�
 date: 2025-04-29 02:43:24
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1wJ1aYJEZg<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1wJ1aYJEZg<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1wJ1aYJEZg&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

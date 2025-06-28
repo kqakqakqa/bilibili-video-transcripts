@@ -3,7 +3,7 @@ title: 中国如何把美国建立的反华组织，变成好朋友【东盟峰�
 date: 2025-04-27 08:42:17
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1QoyaYFEh1<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1QoyaYFEh1<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1QoyaYFEh1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

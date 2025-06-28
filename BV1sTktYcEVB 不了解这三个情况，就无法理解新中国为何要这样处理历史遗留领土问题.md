@@ -3,7 +3,7 @@ title: 不了解这三个情况，就无法理解新中国为何要这样处理�
 date: 2025-04-27 08:41:16
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1sTktYcEVB<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1sTktYcEVB<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1sTktYcEVB&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

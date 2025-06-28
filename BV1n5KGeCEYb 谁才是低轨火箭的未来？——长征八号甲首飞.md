@@ -3,7 +3,7 @@ title: 谁才是低轨火箭的未来？——长征八号甲首飞
 date: 2025-04-29 03:21:44
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1n5KGeCEYb<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1n5KGeCEYb<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1n5KGeCEYb&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

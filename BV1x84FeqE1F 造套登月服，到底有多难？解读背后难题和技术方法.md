@@ -3,7 +3,7 @@ title: 造套登月服，到底有多难？解读背后难题和技术方法
 date: 2025-04-29 03:25:23
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1x84FeqE1F<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1x84FeqE1F<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1x84FeqE1F&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

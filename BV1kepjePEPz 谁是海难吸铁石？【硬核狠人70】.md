@@ -3,7 +3,7 @@ title: 谁是海难吸铁石？【硬核狠人70】
 date: 2025-04-29 03:22:24
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1kepjePEPz<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1kepjePEPz<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1kepjePEPz&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

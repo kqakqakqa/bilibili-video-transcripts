@@ -3,7 +3,7 @@ title: U艇的"孤狼"式偷袭：突袭斯卡帕湾，二战最经典的海战
 date: 2025-04-29 01:52:28
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1mS421d7UA<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1mS421d7UA<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1mS421d7UA&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

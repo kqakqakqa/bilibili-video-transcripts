@@ -3,7 +3,7 @@ title: 高丽航空为何被评'最差航司'?详解朝鲜民航前世今生
 date: 2025-04-29 03:30:36
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1eUSJY1Eox<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1eUSJY1Eox<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1eUSJY1Eox&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

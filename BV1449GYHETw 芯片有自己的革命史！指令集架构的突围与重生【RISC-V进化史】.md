@@ -3,7 +3,7 @@ title: 芯片有自己的革命史！指令集架构的突围与重生【RISC-V�
 date: 2025-04-29 02:47:05
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1449GYHETw<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1449GYHETw<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1449GYHETw&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

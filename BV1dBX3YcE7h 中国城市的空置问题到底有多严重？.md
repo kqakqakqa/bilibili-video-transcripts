@@ -3,7 +3,7 @@ title: 中国城市的空置问题到底有多严重？
 date: 2025-04-29 02:15:38
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1dBX3YcE7h<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1dBX3YcE7h<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1dBX3YcE7h&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

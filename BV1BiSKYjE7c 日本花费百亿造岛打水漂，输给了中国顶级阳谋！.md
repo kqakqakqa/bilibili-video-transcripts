@@ -3,7 +3,7 @@ title: 日本花费百亿造岛打水漂，输给了中国顶级阳谋！
 date: 2025-04-29 02:35:38
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1BiSKYjE7c<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1BiSKYjE7c<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1BiSKYjE7c&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

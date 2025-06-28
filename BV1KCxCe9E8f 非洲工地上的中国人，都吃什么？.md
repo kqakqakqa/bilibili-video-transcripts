@@ -3,7 +3,7 @@ title: 非洲工地上的中国人，都吃什么？
 date: 2025-04-29 03:29:01
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1KCxCe9E8f<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1KCxCe9E8f<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1KCxCe9E8f&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

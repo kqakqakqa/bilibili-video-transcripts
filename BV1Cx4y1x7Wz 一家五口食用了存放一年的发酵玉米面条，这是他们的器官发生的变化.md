@@ -3,7 +3,7 @@ title: 一家五口食用了存放一年的发酵玉米面条，这是他们的�
 date: 2025-04-29 02:10:18
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1Cx4y1x7Wz<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1Cx4y1x7Wz<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1Cx4y1x7Wz&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

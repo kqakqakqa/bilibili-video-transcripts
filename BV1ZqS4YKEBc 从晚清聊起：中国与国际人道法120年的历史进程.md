@@ -3,7 +3,7 @@ title: 从晚清聊起：中国与国际人道法120年的历史进程
 date: 2025-04-27 08:43:21
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1ZqS4YKEBc<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1ZqS4YKEBc<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1ZqS4YKEBc&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

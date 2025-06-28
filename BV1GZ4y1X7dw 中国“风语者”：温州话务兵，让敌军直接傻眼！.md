@@ -3,7 +3,7 @@ title: 中国“风语者”：温州话务兵，让敌军直接傻眼！
 date: 2025-04-29 02:14:55
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1GZ4y1X7dw<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1GZ4y1X7dw<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1GZ4y1X7dw&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

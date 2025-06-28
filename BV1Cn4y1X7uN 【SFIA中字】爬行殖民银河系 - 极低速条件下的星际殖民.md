@@ -3,7 +3,7 @@ title: 【SFIA中字】爬行殖民银河系 - 极低速条件下的星际殖民
 date: 2025-04-29 02:01:00
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1Cn4y1X7uN<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1Cn4y1X7uN<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1Cn4y1X7uN&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

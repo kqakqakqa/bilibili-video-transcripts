@@ -3,7 +3,7 @@ title: 破伤风入侵：身边的隐蔽杀手，剧毒的肌肉痉挛毒素
 date: 2025-04-27 08:48:45
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1so4y1z7qK<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1so4y1z7qK<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1so4y1z7qK&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

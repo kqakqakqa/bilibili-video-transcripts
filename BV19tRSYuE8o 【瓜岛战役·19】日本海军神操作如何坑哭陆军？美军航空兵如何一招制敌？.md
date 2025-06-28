@@ -3,7 +3,7 @@ title: 【瓜岛战役·19】日本海军神操作如何坑哭陆军？美军航
 date: 2025-04-29 02:05:08
 ---
 
-> 原视频：https://www.bilibili.com/video/BV19tRSYuE8o<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV19tRSYuE8o<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV19tRSYuE8o&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

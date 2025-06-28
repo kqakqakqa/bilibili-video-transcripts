@@ -3,7 +3,7 @@ title: 【高见35】大连新机场争议问题浅析
 date: 2025-04-27 08:14:56
 ---
 
-> 原视频：https://www.bilibili.com/video/BV11ucBe5EQd<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV11ucBe5EQd<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV11ucBe5EQd&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 

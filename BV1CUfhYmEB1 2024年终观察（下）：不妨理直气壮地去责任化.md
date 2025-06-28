@@ -3,7 +3,7 @@ title: 2024年终观察（下）：不妨理直气壮地去责任化
 date: 2025-04-29 01:50:14
 ---
 
-> 原视频：https://www.bilibili.com/video/BV1CUfhYmEB1<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek R1
+> 原视频：https://www.bilibili.com/video/BV1CUfhYmEB1<br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3
 >
 > <iframe src="//player.bilibili.com/player.html?bvid=BV1CUfhYmEB1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
