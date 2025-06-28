@@ -326,7 +326,7 @@ td {
   line-height: 0;
 }
 .toggle .toggle-line {
-  background: #fff;
+  background: var(--text-color);
   display: block;
   height: 2px;
   left: 0;
@@ -1224,7 +1224,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #58fc45;
+    background: #8f3b57;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -2556,11 +2556,11 @@ header.header {
 }
 .site-nav-toggle .toggle,
 .site-nav-right .toggle {
-  color: #fff;
+  color: var(--text-color);
 }
 .site-nav-toggle .toggle .toggle-line,
 .site-nav-right .toggle .toggle-line {
-  background: #fff;
+  background: var(--text-color);
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .site-nav {
