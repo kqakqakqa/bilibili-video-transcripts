@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="theme-color" content="#222"><meta name="generator" content="Hexo 7.3.0">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/bilibili-video-transcripts/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/bilibili-video-transcripts/images/favicon-32x32-next.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/bilibili-video-transcripts/images/favicon-16x16-next.png">
+  <link rel="mask-icon" href="/bilibili-video-transcripts/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/bilibili-video-transcripts/css/main.css">
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha256-dABdfBfUoC8vJUBOwGVdm8L9qlMWaHTIfXt+7GnZCIo=" crossorigin="anonymous">
+
+<script class="next-config" data-name="main" type="application/json">{"hostname":"kqakqakqa.github.io","root":"/bilibili-video-transcripts/","images":"/bilibili-video-transcripts/images","scheme":"Pisces","darkmode":false,"version":"8.23.0","exturl":false,"sidebar":{"position":"left","width_expanded":320,"width_dual_column":240,"display":"remove","padding":18,"offset":12},"hljswrap":true,"codeblock":{"theme":{"light":"default","dark":"stackoverflow-dark"},"prism":{"light":"prism","dark":"prism-dark"},"copy_button":{"enable":false,"style":null},"fold":{"enable":false,"height":500},"language":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":false,"async":false,"duration":200,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/bilibili-video-transcripts/search.xml","localsearch":{"enable":true,"top_n_per_article":3,"unescape":false,"preload":false}}</script><script src="/bilibili-video-transcripts/js/config.js" defer></script>
+
+    <meta name="description" content="原视频：https:&#x2F;&#x2F;www.bilibili.com&#x2F;video&#x2F;BV1noMczkEMP转文本：OpenAI Whisper-Medium整理：Deepseek V3    WWDC 2024深度讨论：设计革新、AI进展与硬件生态的未来走向 开场与总体印象 几位科技博主在WWDC现场展开了热烈讨论。彭总首先抛出问题：&quot;这次WWDC有哪个瞬间让大家特别感到意外和心动？&quot;三">
+<meta property="og:type" content="article">
+<meta property="og:title" content="【WWDC25 特别节目】Apple 新系统们怎么样？且听四位科技 UP 锐评">
+<meta property="og:url" content="https://kqakqakqa.github.io/bilibili-video-transcripts/BV1noMczkEMP%20%E3%80%90WWDC25%20%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE%E3%80%91Apple%20%E6%96%B0%E7%B3%BB%E7%BB%9F%E4%BB%AC%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F%E4%B8%94%E5%90%AC%E5%9B%9B%E4%BD%8D%E7%A7%91%E6%8A%80%20UP%20%E9%94%90%E8%AF%84/index.html">
+<meta property="og:site_name" content="哔哩哔哩视频转文本">
+<meta property="og:description" content="原视频：https:&#x2F;&#x2F;www.bilibili.com&#x2F;video&#x2F;BV1noMczkEMP转文本：OpenAI Whisper-Medium整理：Deepseek V3    WWDC 2024深度讨论：设计革新、AI进展与硬件生态的未来走向 开场与总体印象 几位科技博主在WWDC现场展开了热烈讨论。彭总首先抛出问题：&quot;这次WWDC有哪个瞬间让大家特别感到意外和心动？&quot;三">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2025-08-16T09:23:53.000Z">
+<meta property="article:modified_time" content="2025-08-16T09:23:53.000Z">
+<meta property="article:author" content="kqakqaqka">
+<meta name="twitter:card" content="summary">
+
+
+<link rel="canonical" href="https://kqakqakqa.github.io/bilibili-video-transcripts/BV1noMczkEMP%20%E3%80%90WWDC25%20%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE%E3%80%91Apple%20%E6%96%B0%E7%B3%BB%E7%BB%9F%E4%BB%AC%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F%E4%B8%94%E5%90%AC%E5%9B%9B%E4%BD%8D%E7%A7%91%E6%8A%80%20UP%20%E9%94%90%E8%AF%84/">
+
+
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://kqakqakqa.github.io/bilibili-video-transcripts/BV1noMczkEMP%20%E3%80%90WWDC25%20%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE%E3%80%91Apple%20%E6%96%B0%E7%B3%BB%E7%BB%9F%E4%BB%AC%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F%E4%B8%94%E5%90%AC%E5%9B%9B%E4%BD%8D%E7%A7%91%E6%8A%80%20UP%20%E9%94%90%E8%AF%84/","path":"BV1noMczkEMP 【WWDC25 特别节目】Apple 新系统们怎么样？且听四位科技 UP 锐评/","title":"【WWDC25 特别节目】Apple 新系统们怎么样？且听四位科技 UP 锐评"}</script>
+
+<script class="next-config" data-name="calendar" type="application/json">""</script>
+<title>【WWDC25 特别节目】Apple 新系统们怎么样？且听四位科技 UP 锐评 | 哔哩哔哩视频转文本</title>
+  
+
+
+
+
+
+
+
+
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous" defer></script>
+<script src="/bilibili-video-transcripts/js/utils.js" defer></script><script src="/bilibili-video-transcripts/js/next-boot.js" defer></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/hexo-generator-searchdb/1.4.1/search.js" integrity="sha256-1kfA5uHPf65M5cphT2dvymhkuyHPQp5A53EGZOnOLmc=" crossorigin="anonymous" defer></script>
+<script src="/bilibili-video-transcripts/js/third-party/search/local-search.js" defer></script>
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  <noscript>
+    <link rel="stylesheet" href="/bilibili-video-transcripts/css/noscript.css">
+  </noscript>
+<link rel="alternate" href="/bilibili-video-transcripts/atom.xml" title="哔哩哔哩视频转文本" type="application/atom+xml">
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <!--<div class="headband"></div>-->
+
+  <main class="main">
+    <div class="column">
+      <header class="header" itemscope itemtype="http://schema.org/WPHeader"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/bilibili-video-transcripts/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <p class="site-title">哔哩哔哩视频转文本</p>
+      <i class="logo-line"></i>
+    </a>
+      <p class="site-subtitle" itemprop="description">Bilibili Video Transcripts</p>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger" aria-label="搜索" role="button">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <div class="main-menu menu"><li class="menu-item menu-item-home"><a href="/bilibili-video-transcripts/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li><li class="menu-item menu-item-rss"><a href="/bilibili-video-transcripts/atom.xml" rel="section"><i class="fa fa-rss fa-fw"></i>RSS</a></li><li class="menu-item menu-item-github"><a href="https://github.com/kqakqakqa/bilibili-video-transcripts" rel="section" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+    </div>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup">
+      <div class="search-header">
+        <span class="search-icon">
+          <i class="fa fa-search"></i>
+        </span>
+        <div class="search-input-container">
+          <input autocomplete="off" autocapitalize="off" maxlength="80"
+                placeholder="搜索..." spellcheck="false"
+                type="search" class="search-input">
+        </div>
+        <span class="popup-btn-close" role="button">
+          <i class="fa fa-times-circle"></i>
+        </span>
+      </div>
+      <div class="search-result-container">
+        <div class="search-result-icon">
+          <i class="fa fa-spinner fa-pulse fa-5x"></i>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</header>
+    </div>
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://kqakqakqa.github.io/bilibili-video-transcripts/BV1noMczkEMP%20%E3%80%90WWDC25%20%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE%E3%80%91Apple%20%E6%96%B0%E7%B3%BB%E7%BB%9F%E4%BB%AC%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F%E4%B8%94%E5%90%AC%E5%9B%9B%E4%BD%8D%E7%A7%91%E6%8A%80%20UP%20%E9%94%90%E8%AF%84/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/bilibili-video-transcripts/images/avatar.gif">
+      <meta itemprop="name" content="kqakqaqka">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="哔哩哔哩视频转文本">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="【WWDC25 特别节目】Apple 新系统们怎么样？且听四位科技 UP 锐评 | 哔哩哔哩视频转文本">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          【WWDC25 特别节目】Apple 新系统们怎么样？且听四位科技 UP 锐评
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+
+      <time title="创建时间：2025-08-16 17:23:53" itemprop="dateCreated datePublished" datetime="2025-08-16T17:23:53+08:00">2025-08-16</time>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody"><blockquote>
+<p>原视频：<a target="_blank" rel="noopener" href="https://www.bilibili.com/video/BV1noMczkEMP">https://www.bilibili.com/video/BV1noMczkEMP</a><br>转文本：OpenAI Whisper-Medium<br>整理：Deepseek V3</p>
+<iframe src="//player.bilibili.com/player.html?bvid=BV1noMczkEMP&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</blockquote>
+<hr>
+<h2 id="WWDC-2024深度讨论：设计革新、AI进展与硬件生态的未来走向">WWDC 2024深度讨论：设计革新、AI进展与硬件生态的未来走向</h2>
+<h3 id="开场与总体印象">开场与总体印象</h3>
+<p>几位科技博主在WWDC现场展开了热烈讨论。彭总首先抛出问题：&quot;这次WWDC有哪个瞬间让大家特别感到意外和心动？&quot;三位嘉宾给出了截然不同的反应。</p>
+<p>AK表示自己关注点比较小众，担心观众流失，建议让其他两位先发言。老戴直言最关心的Apple Intelligence相关内容今年并未出现，他更期待AI带来的人机交互新范式，而非UI的修修补补。不过他对&quot;流体玻璃&quot;（Liquid Glass）设计语言表现出兴趣。</p>
+<p>云飞则分享了更贴近普通用户的视角：iPhone部分的更新虽不错但不够震撼，直到iPad部分登场时才真正被惊艳到。他特别提到这次出差只带了iPhone和Mac，正是因为此前iPad生产力不足，而这次多任务能力的提升让他重燃期待。</p>
+<h3 id="设计语言变革：Liquid-Glass的争议与价值">设计语言变革：Liquid Glass的争议与价值</h3>
+<p>讨论很快聚焦到本次最显着的设计变革——Liquid Glass（流体玻璃）效果。三位嘉宾展开了精彩辩论：</p>
+<p><strong>技术实现与性能影响</strong></p>
+<ul>
+<li>云飞刚刷上Beta版，坦言首个版本确实卡顿，但这是Beta版的常态，暂无法断言对续航的影响</li>
+<li>AK深入研究开发文档，揭示其四层结构：Lens层（光线折射）、Diffusion层（柔光）、高光层（控制透明度）、UI层（文字和按钮）</li>
+</ul>
+<p><strong>设计哲学之争</strong></p>
+<ul>
+<li>老戴认为这套语言源自Vision Pro，旨在保持环境感知(awareness)和UI深度提示。但当移植到平面设备时，缺乏真实深度会导致视觉混乱</li>
+<li>云飞持谨慎态度，赞赏动效惊艳但担忧可读性，特别是Safari中网址与背景融合的问题</li>
+<li>AK抛出暴论：苹果故意保留初期版本的视觉问题以引发讨论，后续调整参数优化可读性后形成&quot;反转&quot;营销</li>
+</ul>
+<p><strong>历史视角</strong></p>
+<ul>
+<li>彭总提醒，苹果设计变革常伴随初期争议，如拟物化到扁平化、刘海屏等都经历了从质疑到接受的过程</li>
+<li>AK指出行业跟随现象：无论评价如何，友商很可能会效仿这一设计语言</li>
+</ul>
+<h3 id="AI进展：为何缺席与未来展望">AI进展：为何缺席与未来展望</h3>
+<p>讨论转向备受期待的Apple Intelligence：</p>
+<p><strong>现状分析</strong></p>
+<ul>
+<li>老戴认为可能是端侧3B模型在续航和延迟上的挑战</li>
+<li>云飞推测苹果对重大功能一贯谨慎，可能尚未准备好</li>
+<li>AK透露内部管理变动：原AI负责人JG被撤换，由Vision Pro负责人Rockwell兼任，暗示战略调整</li>
+</ul>
+<p><strong>根本挑战</strong></p>
+<ul>
+<li>老戴指出商业逻辑矛盾：AI整合各App数据会冲击开发者利益（如美团失去广告入口）</li>
+<li>AK强调架构先行：App Intents等基础框架的完善比急于推出功能更重要</li>
+</ul>
+<p><strong>中国特供版</strong></p>
+<ul>
+<li>嘉宾们调侃国内用户可能无法体验完整版AI功能，但认为全球市场上苹果仍在探索期，暂未落后</li>
+</ul>
+<h3 id="游戏生态：Mac的突围之路">游戏生态：Mac的突围之路</h3>
+<p>关于苹果游戏野心的讨论呈现鲜明对立：</p>
+<p><strong>用户视角</strong></p>
+<ul>
+<li>云飞作为实际用户分享：因工作需要Mac的续航和静音，通过Crossover等方案解决游戏需求虽不完美但可用</li>
+<li>指出Game Porting Toolkit 3支持Metal FX超分和插帧，将提升转译游戏体验</li>
+</ul>
+<p><strong>市场现实</strong></p>
+<ul>
+<li>AK尖锐指出：真正游戏玩家不会为游戏选Mac，现有用户转化意义有限</li>
+<li>老戴提出&quot;培养习惯&quot;说：类比微软曾纵容Office盗版，苹果可能先通过转译降低门槛</li>
+</ul>
+<p><strong>原生游戏困境</strong></p>
+<ul>
+<li>提到《生化危机4》Mac版下载量与实际付费量的巨大落差，揭示平台付费意愿问题</li>
+<li>共识：App Store高价策略与Steam折扣文化形成鲜明对比</li>
+</ul>
+<h3 id="iPadOS：生产力进化的边界">iPadOS：生产力进化的边界</h3>
+<p>针对iPad的&quot;下一台电脑&quot;命题，讨论深入本质：</p>
+<p><strong>四大差异</strong></p>
+<ol>
+<li>多任务界面：已接近Mac，新增可调窗口和&quot;红绿灯&quot;控件</li>
+<li>真后台：新增API允许开发者申请后台资源，但主动权仍在系统</li>
+<li>文件系统：保持沙箱机制，未实现完全访问</li>
+<li>生态定位：仍被视为&quot;内容消费&quot;设备</li>
+</ol>
+<p><strong>哲学之争</strong></p>
+<ul>
+<li>AK主张iPad应找到独立生态位，不必替代Mac</li>
+<li>云飞认为苹果的桌面化尝试暗示更大野心</li>
+<li>老戴指出根本分界：是否提供Terminal和sudo权限</li>
+</ul>
+<h3 id="Vision-Pro：长期主义的坚持">Vision Pro：长期主义的坚持</h3>
+<p>关于空间计算的讨论理性而前瞻：</p>
+<p><strong>市场定位</strong></p>
+<ul>
+<li>AK强调第一代产品本就是探路，销量不是关键指标</li>
+<li>指出高管兼任AI负责人，显示内部仍高度重视</li>
+</ul>
+<p><strong>技术突破</strong></p>
+<ul>
+<li>特别关注Gaussian Splatting技术实现2D照片到3D模型的质变</li>
+<li>多人协作功能的公布验证了去年对空间数据共享的预测</li>
+</ul>
+<p><strong>OS战略</strong></p>
+<ul>
+<li>老戴建议区分Vision Pro硬件与Vision OS，后者需要更广泛的设备支持</li>
+</ul>
+<h3 id="终极评分与总结">终极评分与总结</h3>
+<p>最后打分环节展现个性差异：</p>
+<ul>
+<li>老戴：70-80分，例行更新</li>
+<li>云飞：80分，话题度取胜</li>
+<li>AK：90分，完全个人视角，认可技术方向</li>
+</ul>
+<p>讨论以共识收尾：WWDC 2024或许缺乏&quot;革命性&quot;更新，但在设计语言统一、跨设备协同、基础架构等方面为未来埋下伏笔。正如AK所言：&quot;苹果还是那个苹果——小步快跑，不求速胜。&quot;这种稳健或许正是其在AI浪潮中保持淡定的底气所在。</p>
+
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/bilibili-video-transcripts/BV1YvbYzzEsq%20%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E5%81%9A%E5%88%B0%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E7%9A%84%EF%BC%9F/" rel="prev" title="我是如何做到百万粉丝的？">
+                  <i class="fa fa-angle-left"></i> 我是如何做到百万粉丝的？
+                </a>
+            </div>
+            <div class="post-nav-item">
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+  <div class="powered-by">基于 <a href="https://hexo.io/" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/pisces/" rel="noopener" target="_blank">NexT.Pisces</a> 构建
+  </div>
+
+    </div>
+  </footer>
+
+  
+  <div class="back-to-top" role="button" aria-label="返回顶部">
+    <i class="fa fa-arrow-up fa-lg"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+</body>
+</html>
